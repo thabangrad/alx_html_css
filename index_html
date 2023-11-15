@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AXL FINAL</title>
+    </head>
+    <body>
+        <h1>WELCOME WORLD</h1>
+        <h2>LET'S MAKE IT WORK</h2>
+    <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png"/>
+        <h3>WE DRIVE SUCCESS</h3>
+
+    <p>The Intro Software Engineering Welcomes Everyone let's make this a success.</p>
+
+    <p>We are all new to this program, so can everyone take a moment to work hard,
+        I challenge myself to try and make it work no matter what, otherwise I'm
+        wasting my time.</p>
+
+    <p>The challenges we encounter in this program are not common it is simply 
+        a major change in our lifestyle, some of us are bread winners in our homes
+        now students on top of that parents to our little one's of which we love
+        dearly.</p>
+
+    <p>I would like to thank ALX for this opportunity, basically I've transformed
+        my life I was a father yesterday but today my kids can tag me as a Software
+        Engineer.
+    </body>
+</html>
